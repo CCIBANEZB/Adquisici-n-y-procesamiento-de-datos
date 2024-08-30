@@ -1,1 +1,1 @@
-# Adquisici-n-y-procesamiento-de-datos
+# Adquisicion-y-procesamiento-de-datos
